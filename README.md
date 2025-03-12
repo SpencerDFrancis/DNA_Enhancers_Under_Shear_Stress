@@ -1,4 +1,4 @@
-# DNA_Enhancers_Under_Shear_Stress
+# DNA Enhancers Under Shear Stress
 This project uses publicly available data to assess the effect of shear-stress on DNA transcription, comparing multiply-enhanced and singly-enhanced genes.
 
 ## Abstract
